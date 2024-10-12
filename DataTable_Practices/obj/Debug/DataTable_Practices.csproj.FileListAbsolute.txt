@@ -1,0 +1,7 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\bin\Debug\DataTable_Practices.exe.config
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\bin\Debug\DataTable_Practices.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\bin\Debug\DataTable_Practices.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\obj\Debug\DataTable_Practices.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\obj\Debug\DataTable_Practices.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\obj\Debug\DataTable_Practices.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataTable_Practices\obj\Debug\DataTable_Practices.pdb

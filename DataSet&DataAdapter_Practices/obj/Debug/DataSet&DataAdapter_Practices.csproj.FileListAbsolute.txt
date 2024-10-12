@@ -1,0 +1,7 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\bin\Debug\DataSet&DataAdapter_Practices.exe.config
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\bin\Debug\DataSet&DataAdapter_Practices.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\bin\Debug\DataSet&DataAdapter_Practices.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\obj\Debug\DataSet&DataAdapter_Practices.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\obj\Debug\DataSet&DataAdapter_Practices.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\obj\Debug\DataSet&DataAdapter_Practices.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataSet&DataAdapter_Practices\obj\Debug\DataSet&DataAdapter_Practices.pdb

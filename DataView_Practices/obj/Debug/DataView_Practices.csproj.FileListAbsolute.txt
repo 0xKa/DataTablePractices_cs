@@ -1,0 +1,7 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\bin\Debug\DataView_Practices.exe.config
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\bin\Debug\DataView_Practices.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\bin\Debug\DataView_Practices.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\obj\Debug\DataView_Practices.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\obj\Debug\DataView_Practices.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\obj\Debug\DataView_Practices.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\DataView_Practices\obj\Debug\DataView_Practices.pdb
